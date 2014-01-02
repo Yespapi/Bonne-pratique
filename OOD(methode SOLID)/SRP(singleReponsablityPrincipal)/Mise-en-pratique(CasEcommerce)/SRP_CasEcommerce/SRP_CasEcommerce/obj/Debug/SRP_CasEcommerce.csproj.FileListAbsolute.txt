@@ -1,0 +1,5 @@
+c:\users\eyebe\pictures\documents\visual studio 2012\Projects\SRP_CasEcommerce\SRP_CasEcommerce\bin\Debug\SRP_CasEcommerce.dll
+c:\users\eyebe\pictures\documents\visual studio 2012\Projects\SRP_CasEcommerce\SRP_CasEcommerce\bin\Debug\SRP_CasEcommerce.pdb
+c:\users\eyebe\pictures\documents\visual studio 2012\Projects\SRP_CasEcommerce\SRP_CasEcommerce\obj\Debug\SRP_CasEcommerce.csprojResolveAssemblyReference.cache
+c:\users\eyebe\pictures\documents\visual studio 2012\Projects\SRP_CasEcommerce\SRP_CasEcommerce\obj\Debug\SRP_CasEcommerce.dll
+c:\users\eyebe\pictures\documents\visual studio 2012\Projects\SRP_CasEcommerce\SRP_CasEcommerce\obj\Debug\SRP_CasEcommerce.pdb

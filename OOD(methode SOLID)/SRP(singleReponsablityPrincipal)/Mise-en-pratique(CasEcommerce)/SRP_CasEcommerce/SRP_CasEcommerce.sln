@@ -3,6 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRP_CasEcommerce", "SRP_CasEcommerce\SRP_CasEcommerce.csproj", "{AC229BA6-1F9C-49AA-A113-02941D5B8325}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{2E726129-A555-450F-8B11-2822886DAAE5}"
+	ProjectSection(SolutionItems) = preProject
+		Cart.cs = Cart.cs
+		Order.cs = Order.cs
+		PaymentDetails.cs = PaymentDetails.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{DBFF0533-4C74-41F7-A740-D0636297661B}"
+	ProjectSection(SolutionItems) = preProject
+		InventorySystem.cs = InventorySystem.cs
+		PaymentGateway.cs = PaymentGateway.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
