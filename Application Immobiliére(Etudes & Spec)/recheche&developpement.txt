@@ -1,0 +1,50 @@
+notes prod:
+r&d: http://msdn.microsoft.com/fr-fr/library/system.componentmodel.dataannotations.aspx
+http://www.itorian.com/2012/10/entity-frameworks-database-seed-method.html
+http://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Entity-Framework-Tips-and-Tric ks
+
+
+
+/***************Prod *********************************/phase 0
+
+/******************Models ***********************/phase  1
+1.create class library project for models and data acccess. 
+2.Add new class to the project  lybrary called home.
+3.Ass bew class User to project lybray
+
+
+/****************Entity Framework & Configuration Manager ****************/phase 2
+1create new project called DataAccess to the solution.
+2.Install Entity Framework
+3.An create the data Context Class
+5.create Reference(Models package) To Data project library.
+6.Add propoperty to DataContext Class
+7.config the app.config  the connecion String
+8. Add a new reference to Data project libray named System.COnfiguration ; this will give us acccess to the 
+configraution magange guysssss
+9.now we can build our connection string the the DbContext class
+10.to App.config create the application appSetting
+11 create new folder and a new class  named Home Configuration and User Configuration
+12.go to DataContext class to configure thes configuration.
+13.create  new method called ApplyRules
+14.create class called generic repository
+15.add an Interface Repository
+16.add again HomeRepository class
+17.Add Application Unit : joue le role de service inspirée de notre application fait précédement avec Spring (en java)
+
+
+/********** Database Initalization ********************/phase 3
+1.go the configuraiton add a new class name CustomDatabaseInitilzer  class herite form Dbcontext
+2.Add to DataContext a new static method called SetInitializer( ) with CustomrDataBaseInitializer();
+
+/*******Retouch  Models Libray **************/ phase 4
+1.a In this library a new interface called IAuditInfo.cs  with property CreatON and ModifieOn, the others 
+of this library will implemented it.
+
+/******do some test *******************************/phase 5
+1.do some test with a console application
+3.create console app project
+4.add referrence data library project and entity framework 
+5.copy the connectionString and appsetting of library projects  to the app.config of console project
+6.save consale app as the start up project.
+notes:Initial Catalog=CodedHomesDEV

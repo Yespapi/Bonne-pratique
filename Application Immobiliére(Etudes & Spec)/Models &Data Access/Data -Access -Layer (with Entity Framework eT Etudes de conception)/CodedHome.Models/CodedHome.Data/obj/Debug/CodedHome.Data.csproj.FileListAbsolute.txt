@@ -1,0 +1,12 @@
+c:\users\eyebe\pictures\documents\visual studio 2012\Projects\CodedHome.Models\CodedHome.Data\bin\Debug\CodedHome.Data.dll.config
+c:\users\eyebe\pictures\documents\visual studio 2012\Projects\CodedHome.Models\CodedHome.Data\bin\Debug\CodedHome.Data.dll
+c:\users\eyebe\pictures\documents\visual studio 2012\Projects\CodedHome.Models\CodedHome.Data\bin\Debug\CodedHome.Data.pdb
+c:\users\eyebe\pictures\documents\visual studio 2012\Projects\CodedHome.Models\CodedHome.Data\bin\Debug\CodedHome.Models.dll
+c:\users\eyebe\pictures\documents\visual studio 2012\Projects\CodedHome.Models\CodedHome.Data\bin\Debug\EntityFramework.dll
+c:\users\eyebe\pictures\documents\visual studio 2012\Projects\CodedHome.Models\CodedHome.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\eyebe\pictures\documents\visual studio 2012\Projects\CodedHome.Models\CodedHome.Data\bin\Debug\CodedHome.Models.pdb
+c:\users\eyebe\pictures\documents\visual studio 2012\Projects\CodedHome.Models\CodedHome.Data\bin\Debug\EntityFramework.xml
+c:\users\eyebe\pictures\documents\visual studio 2012\Projects\CodedHome.Models\CodedHome.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\eyebe\pictures\documents\visual studio 2012\Projects\CodedHome.Models\CodedHome.Data\obj\Debug\CodedHome.Data.csprojResolveAssemblyReference.cache
+c:\users\eyebe\pictures\documents\visual studio 2012\Projects\CodedHome.Models\CodedHome.Data\obj\Debug\CodedHome.Data.dll
+c:\users\eyebe\pictures\documents\visual studio 2012\Projects\CodedHome.Models\CodedHome.Data\obj\Debug\CodedHome.Data.pdb

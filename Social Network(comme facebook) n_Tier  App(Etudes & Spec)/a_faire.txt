@@ -1,0 +1,6 @@
+a faire:
+*Add Link to friend
+*create Friend Page
+*show current Firend on Page
+*create Addfriend page
+*Implement Remove on current Fiend Page

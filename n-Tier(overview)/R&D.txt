@@ -1,0 +1,3 @@
+notes sources:
+http://fr.wikipedia.org/wiki/Architecture_trois_tiers
+http://en.wikipedia.org/wiki/Multitier_architecture#Three-tier_architecture
